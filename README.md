@@ -1,0 +1,1 @@
+# Hello JS no VS code
