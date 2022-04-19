@@ -12,3 +12,5 @@ trabalho com dados e variaveis, tipos de dados, operações simples e concatena�
 
 Desafio Area da  Circunferencia e Desafio de Troca de Valores
 
+Aulas e prática sobre Tipos em JS
+
