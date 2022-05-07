@@ -6,7 +6,7 @@ Sequencias, blocos de código , console log
 
 Desafio Bloco/Sentença de código com console log
 
-Atualização 21/04/2022
+Atualização 06/05/2022
 
 trabalho com dados e variaveis, tipos de dados, operações simples e concatenação.
 
@@ -17,4 +17,6 @@ Aulas e prática sobre Tipos em JS : Number, String, Boolean, Array, Object
 Conceitos de Null e Undefined
 
 Introdução ás funções
+
+uso de variáveis let e var, operadores, hoisting, função vs objeto. 
 
