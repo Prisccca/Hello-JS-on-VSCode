@@ -6,7 +6,7 @@ Sequencias, blocos de código , console log
 
 Desafio Bloco/Sentença de código com console log
 
-Atualização 06/05/2022
+Atualização 08/05/2022
 
 trabalho com dados e variaveis, tipos de dados, operações simples e concatenação.
 
@@ -19,4 +19,8 @@ Conceitos de Null e Undefined
 Introdução ás funções
 
 uso de variáveis let e var, operadores, hoisting, função vs objeto. 
+
+operadores: destructuring, aritméticos,relacionais,lógicos, unários e ternários.
+tratamento de erro (catch,try,throw) 
+contexto de execução: browser x node
 
