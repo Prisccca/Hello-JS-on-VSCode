@@ -24,3 +24,5 @@ operadores: destructuring, aritméticos,relacionais,lógicos, unários e ternár
 tratamento de erro (catch,try,throw) 
 contexto de execução: browser x node
 
+Estruturas de controle: if, if else, if elseif else.
+
