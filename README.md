@@ -2,7 +2,7 @@
 
 Documentando meu aprendizado de Javascript ( curso web moderno com Javascript 2022 - Udemy)
 
-Atualização 08/05/2022
+Atualização 10/06/2022
 
 
 
