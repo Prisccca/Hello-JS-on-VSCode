@@ -2,7 +2,7 @@
 
 Documentando meu aprendizado de Javascript ( curso web moderno com Javascript 2022 - Udemy)
 
-Atualização 10/06/2022
+Atualização 10/07/2022
 
 
 
@@ -29,5 +29,5 @@ contexto de execução: browser x node
 Estruturas de controle: if, if else, if elseif else , switch , do/while ,while ,for ,for/in , break/continue
 
 
-Funções
+Funções : parâmetros, this, função bind, 
 
